@@ -32,4 +32,4 @@ This is the main repository for our course notes. Please go here for all informa
 -   ITSupport: itsupport@revature.com
 -   Support: support@revature.com
 -   HR: hr@revature.com
--   Trainer: charles.
+-   Trainer: charles.jester@revature.com
